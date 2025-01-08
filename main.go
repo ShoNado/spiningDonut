@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-const frame_delay = 17 // ie, 30 fps
+const frame_delay = 18 // ie, 30 fps
 const theta_spacing = 0.07
 const phi_spacing = 0.02
 
